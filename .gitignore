@@ -1,2 +1,4 @@
 
-Houdini/\.DS_Store
+*.DS_Store
+
+Houdini/hip/backup/
